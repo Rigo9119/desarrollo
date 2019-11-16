@@ -95,6 +95,43 @@ estilos ya que el buscador carga de arriba hacia abajo, siguiendo esa idea
 la estructura cargaria de ultimo y si hay manipulacion del dom puede tener
 conflictos
 
+## Estructura basica 
+
+Los tags mas basicos son los heders y los paragraphs
+
+### Titulos o headers
+
+Son los tags que utilizamos para poner titulos en las paginas o apps 
+hay 6 tipos de headers, el mas importante es el h1 y solo puede existir 
+uno en la pagina, el resto se pueden repiter cuantas veces queramos pero 
+debemos tener en cuenta el html semantico
+
+```html
+<h1>Hola</h1>
+<h2>Hola</h2>
+<h3>Hola</h3>
+<h4>Hola</h4>
+<h5>Hola</h5>
+<h6>Hola</h6>
+```
+### Parrafos
+
+para escribir parrafos se utiliza el tag p no tiene ninguna restriccion 
+y se pueden repetir cuantas vecese queramos
+
+```html
+<p>soy un parrafo</p>
+  ```
+
+## Formularios
+TO-DO
+
+## Tablas 
+TO-DO
+
+## Elementos de bloque y elemntos de linea
+TO-DO
+
 ## HTML Semantico
 
 Escribir html semantico significa darle mas significado al documento html 
