@@ -11,14 +11,13 @@ como todo lenguaje tien sentencias y para escribirlas necesitamos tags
 <html></html>
 ````
 
-la mayoria tiene tags de apertura y de cierre, otros como img son 
-self close
+la mayoria de tags tienen una apertura y un cierre, otros tags como img son 
+self close y tambien tienen atributos como src o alt los que van a contener 
+algun valor
 
 ```html
 <img src="" alt=""/>
 ```
-
-y tambien tienen atributos como src o alt 
 
 ## Versiones 
 
